@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MDDK.iml" filepath="$PROJECT_DIR$/MDDK.iml" />
+      <module fileurl="file://C:\Users\Dom\AndroidStudioProjects\MDDK2\MDDK.iml" filepath="C:\Users\Dom\AndroidStudioProjects\MDDK2\MDDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MDDK2.iml" filepath="$PROJECT_DIR$/MDDK2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
